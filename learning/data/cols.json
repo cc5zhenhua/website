@@ -1,0 +1,90 @@
+[
+    {
+        "name": "sno",
+        "title": "证券编码"
+    },
+    {
+        "name": "sname",
+        "title": "证券名称"
+    },
+    {
+        "name": "hangye",
+        "title": "行业"
+    },
+    {
+        "name": "prices",
+        "title": "最新价格"
+    },
+    {
+        "name": "histGuben",
+        "title": "历史股本"
+    },
+    {
+        "name": "guben",
+        "title": "当前股本"
+    },
+    {
+        "name": "fenHong",
+        "title": "分红"
+    },
+    {
+        "name": "avgJingYingJingLiuLiang",
+        "title": "平均经营活动净流量"
+    },
+    {
+        "name": "historJingZi",
+        "title": "历史净资产"
+    },
+    {
+        "name": "currentJingZi",
+        "title": "当前净资产"
+    },
+    {
+        "name": "currentZongZi",
+        "title": "当前总资产"
+    },
+    {
+        "name": "avgYingShou",
+        "title": "平均营业收入"
+    },
+    {
+        "name": "avgJinLiRun",
+        "title": "平均净利润"
+    },
+    {
+        "name": "currentJinLiRun",
+        "title": "当前净利润"
+    },
+    {
+        "name": "jingGuDongQuanYiZengZhang",
+        "title": "股东权益增长率（含分红）"
+    },
+    {
+        "name": "meiGuJingZiChanZengZhang",
+        "title": "每股净资产增长率"
+    },
+    {
+        "name": "avgZongZiChanShouYiLv",
+        "title": "平均总资产收益率"
+    },
+    {
+        "name": "zongZiChanShouYiLv",
+        "title": "当前总资产收益率"
+    },
+    {
+        "name": "fenHongLv",
+        "title": "分红率"
+    },
+    {
+        "name": "ZongZiChanShouYiLv",
+        "title": "当前总资产收益率"
+    },
+    {
+        "name": "pingJunYingYeShouRu",
+        "title": "平均营业收入比市值"
+    },
+    {
+        "name": "pingJunJingLiuLiang",
+        "title": "平均净流量比市值"
+    }
+]
